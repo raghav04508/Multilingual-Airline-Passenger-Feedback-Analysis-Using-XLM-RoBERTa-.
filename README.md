@@ -1,0 +1,2 @@
+# Multilingual-Airline-Passenger-Feedback-Analysis-Using-XLM-RoBERTa-.
+ A multilingual airline passenger feedback analysis system using XLM-RoBERTa for complaint classification, sentiment analysis, severity prediction, and high-severity alert generation. Supports English, Telugu, and Hindi reviews using a translated and manually verified dataset of 6,624 reviews with an end-to-end deep learning pipeline.
